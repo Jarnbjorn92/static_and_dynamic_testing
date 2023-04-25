@@ -27,3 +27,4 @@ class CardGame:
     for card in cards:
       total += card.value
     return "You have a total of " + str(total)
+
